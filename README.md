@@ -1,1 +1,1 @@
-# J2ee_Academic_Project
+# J2EE_Academic_Project
